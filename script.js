@@ -58,9 +58,9 @@ var quizQuestions = [{
     {
     question: "What does WWW stand for?",
     choiceA: "Web World Workings",
-    choiceB: "Weak Winter Wind",
+    choiceB: "Wild Winter Wind",
     choiceC: "World Wide Web",
-    choiceD: "Wendy Wants Waffles",
+    choiceD: "Wonda Wants Waffles",
     correctAnswer: "c"},
     {
     question: "What HTML attribute references an external JavaScript file?",
